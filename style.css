@@ -1,0 +1,10 @@
+html {
+    background-color: whitesmoke;
+    scroll-behavior: smooth;
+    scrollbar-gutter: stable;
+}
+
+body {
+    font-family: 'Montserrat', sans-serif;
+    
+}
